@@ -3,13 +3,17 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Sealious documentation's documentation!
+Witamy w dokumentacji Sealiousa!
 ==================================================
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
+   cele
+
+
+Sealious to deklaratywny framework do tworzenia aplikacji internetowych, oparty o Node.js, MongoDB, REST Api i WebSockets. Tworzony jest przez członków Sealcode.org.
 
 
 Indices and tables
